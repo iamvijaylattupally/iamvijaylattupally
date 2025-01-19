@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer with a keen interest in web development and open-source projects.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on E-Sanchay<br>👯 I’m looking to collaborate on Open source projects<br>🌱 I’m currently learning Data Structures and Algorithms<br>💬 Ask me about Reactjs,java,DSA,DBMS<br>⚡ Fun fact I rejoice in watching Web-Series and movies
+🔭 I’m currently working on E-Sanchay<br>👯 I’m looking to collaborate on Open source projects<br>🌱 I’m currently learning Data Structures and Algorithms<br>💬 Ask me about Reactjs,java,DSA,DBMS<br>📫 How to reach me **vijayreddylattupally@gmail.com**<br>👨‍💻 My Portfolio  [https://vijaylattupally.tech/](https://vijaylattupally.tech/)<br>⚡ Fun fact I rejoice in watching Web-Series and movies
 
 
 ## 🌐 Socials:
